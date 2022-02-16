@@ -21,4 +21,6 @@
 
 > Other scripts of mine:
 * [Codex FindPlayer](https://github.com/itzcodex24/codex_findPlayer) **[V2 Coming Soon]**
+* [Codex Rent] **[Coming Soon]**
+* [Codex Car Radio] **[Coming Soon]**
 
