@@ -16,12 +16,10 @@
 > What other things does this script bring to the table?
 * This script should not allow Trigger Spammers 🧾 or anything of the kind to crash a player or the server. 
 
-> Extra Information:
-* **NOTE 📝:** I am not currently playing on releasing a second version of this script!
-* If the script for some odd reason does not work for you, or you may have other suggestions, feel free to contact me on discord at codex.exe#0001 📞
-
 > Other scripts of mine:
 * [Codex FindPlayer](https://github.com/itzcodex24/codex_findPlayer) **[V2 Coming Soon]**
-* 
+
+[^note]:
+     I will not be releasing a version 2 of this script any time soon or at all. If the script for some odd reason does not work for you, or you may have other suggestions, feel        free to contact me on discord at codex.exe#0001 📞
 
 
