@@ -17,7 +17,7 @@
 * This script should not allow Trigger Spammers 🧾 or anything of the kind to crash a player or the server. 
 
 > Extra Information:
-* **_Note:_** I am not, and do not plan to work on a second version of this script unless there is something huge I can add! If you have any suggestions, feel free to dm them to me on discord at `codex.exe#0001` 📞
+* **NOTE 📝:** I am not, and do not plan to work on a second version of this script unless there is something huge I can add! If you have any suggestions, feel free to dm them to me on discord at `codex.exe#0001` 📞
 
 > Other scripts of mine:
 * [Codex FindPlayer](https://github.com/itzcodex24/codex_findPlayer) **[V2 Coming Soon]**
